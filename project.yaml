@@ -25,7 +25,7 @@ network:
   # When developing your project we suggest getting a private API key
   # You can get them from OnFinality for free https://app.onfinality.io
   # https://documentation.onfinality.io/support/the-enhanced-api-service
-  endpoint: ["https://arbitrum.api.onfinality.io/rpc?apikey=b75dbcba-bbb8-40a3-81c4-cdb040c605ab"]
+  endpoint: ["https://arbitrum.api.onfinality.io/rpc?apikey=XXX"]
   # Recommended to provide the HTTP endpoint of a full chain dictionary to speed up processing
   dictionary: "https://gx.api.subquery.network/sq/subquery/arbitrum-dictionary-eth"
 
